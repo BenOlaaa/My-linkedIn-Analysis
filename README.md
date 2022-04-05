@@ -6,7 +6,5 @@ As I transition on this journey of using data to make informed decision, one of 
 
 <br>
 <br>
-<br>
-<br>
 
 <img width="1420" alt="Screenshot 2022-04-04 at 8 47 01 PM" src="https://user-images.githubusercontent.com/53540261/161663681-26437363-14e8-4362-ad6f-2245257136a7.png">
